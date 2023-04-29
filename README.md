@@ -1,21 +1,19 @@
+# :wave: Hello/Selam/Merhaba/Bonjour, I'm Hashaam Saeed
 
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Hashaam Saeed</h1>
-<h3 align="left">I am a Versatilist, doing SW/SR/DevOps Engineering things</h3>
 
-**HashaamSaeed/HashaamSaeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-<h1 align="center">Hello there, I'm [Your Name]!</h1>
 
 <p align="center">
   <img src="[Add link to your profile picture here]" alt="Profile Picture" />
 </p>
 
+I'm a PhD student turning pixels into meaningful insights, one line of code at a time.
+Developing AI-powered eyes to see the world in a whole new way 💻👀🌍
+Exploring the depths of computer vision as a PhD student, one pixel at a time
+
 <p align="center">
-  <a href="[Add your LinkedIn URL here]"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[Add your LinkedIn URL here]" alt="LinkedIn Profile" /></a>
-  <a href="[Add your website URL here]"><img src="https://img.shields.io/badge/-Website-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white&link=[Add your website URL here]" alt="Personal Website" /></a>
-  <a href="[Add your Twitter URL here]"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=[Add your Twitter URL here]" alt="Twitter Profile" /></a>
-  <a href="[Add your GitHub URL here]"><img src="https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github&logoColor=white&link=[Add your GitHub URL here]" alt="GitHub Profile" /></a>
+  <a href="https://www.linkedin.com/in/hashaam94/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[Add your LinkedIn URL here]" alt="LinkedIn Profile" /></a>
+  <a href="https://twitter.com/Syed_M_Hashaam"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=[Add your Twitter URL here]" alt="Twitter Profile" /></a>
+  
 </p>
 
 <p align="center">
@@ -29,14 +27,11 @@ Here are some ideas to get you started:
   Here are some things you might want to know about me:
 </p>
 
-- 🔭 I’m currently working on [Current Project/Work]
+- 🔭 I’m currently working on a personal project related to the rudimentary implementation of the Tesla Autopilot software.
 - 🌱 I’m currently learning [Your Learning Goal/Interest]
-- 👯 I’m looking to collaborate on [Your Collaboration Interests/Projects]
-- 🤔 I’m looking for help with [Your Help Requirement/Challenge]
+
 - 💬 Ask me about [Your Areas of Expertise/Interest]
 - 📫 How to reach me: [Your Email/Contact Info]
-- 😄 Pronouns: [Your Preferred Pronouns]
-- ⚡ Fun fact: [Your Fun Fact]
 
 <p align="center">
   Thanks for stopping by!
