@@ -2,13 +2,9 @@
 
 
 
-<p align="center">
-  <img src="[Add link to your profile picture here]" alt="Profile Picture" />
-</p>
 
 I'm a PhD student turning pixels into meaningful insights, one line of code at a time.
 Developing AI-powered eyes to see the world in a whole new way 💻👀🌍
-Exploring the depths of computer vision as a PhD student, one pixel at a time
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hashaam94/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[Add your LinkedIn URL here]" alt="LinkedIn Profile" /></a>
@@ -16,22 +12,16 @@ Exploring the depths of computer vision as a PhD student, one pixel at a time
   
 </p>
 
-<p align="center">
-  I'm a [Your Profession/Job Title] with a passion for [Your Interests/Hobbies]. I enjoy building [Your Expertise/Skills] and have experience in [Your Skills]. I'm constantly exploring new technologies and frameworks to enhance my skills and knowledge. 
-  <br>
-  
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=HashaamSaeed&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-</p>
+<p align="left">
+I'm a Computer Vision and Graphics PhD student. I enjoy building projects with SOTA ML methodologies. I'm constantly exploring new technologies and frameworks to enhance my skills and knowledge. 
 
-<p align="center">
-  Here are some things you might want to know about me:
-</p>
+<br>
+  
+
 
 - 🔭 I’m currently working on a personal project related to the rudimentary implementation of the Tesla Autopilot software.
-- 🌱 I’m currently learning [Your Learning Goal/Interest]
 
-- 💬 Ask me about [Your Areas of Expertise/Interest]
-- 📫 How to reach me: [Your Email/Contact Info]
+
 
 <p align="center">
   Thanks for stopping by!
@@ -52,9 +42,7 @@ Exploring the depths of computer vision as a PhD student, one pixel at a time
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="life">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
-      </a>
+            </a>
       <br>Assembly
     </td>
     <td align="center" width="96">
@@ -64,14 +52,10 @@ Exploring the depths of computer vision as a PhD student, one pixel at a time
       <br>MATLAB
     </td>
     <td align="center" width="96">
-      <a href="to">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>ROS
     </td>
     <td align="center" width="96">
-      <a href="live">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>VHDL
     </td>
@@ -83,7 +67,7 @@ Exploring the depths of computer vision as a PhD student, one pixel at a time
     </td>
     <td align="center" width="96">
       <a href="let">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://camo.githubusercontent.com/906e661107a3bc03104ca5d88336d1f4b0e80fdcac65efaf7904041d371c747f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6b657261732e696f2f696d672f6b657261732d6c6f676f2d323031382d6c617267652d313230302e706e67" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Keras
     </td>
@@ -103,31 +87,31 @@ Exploring the depths of computer vision as a PhD student, one pixel at a time
     </td>
     <td align="center" width="96">
       <a href="love" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="https://raw.githubusercontent.com/isl-org/Open3D/master/docs/_static/open3d_logo_horizontal.png" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>Open3D
     </td>
     <td align="center"  width="96">
       <a href="life">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+        <img src="https://avatars.githubusercontent.com/u/1628082?s=200&v=4" width="48" height="48" alt="Debian" />
       </a>
       <br>Numba
     </td>
     <td align="center"  width="96">
       <a href="regardless">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
+        <img src="https://raw.githubusercontent.com/cupy/cupy/main/docs/image/cupy_logo_1000px.png" width="48" height="48" alt="RHEL" />
       </a>
       <br>CuPy
     </td>
     <td align="center" width="96">
       <a href="of">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
+        <img src="https://github.com/facebookresearch/pytorch3d/blob/823ab75d27af5904ae58f5d33c0d9a7b8cda237a/website/static/img/pytorch3dfavicon.png" width="48" height="48" alt="Powershell" />
       </a>
       <br>PyTorch3D
     </td>
     <td align="center" width="96">
       <a href="adversity" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
+        <img src="https://raw.githubusercontent.com/mitsuba-renderer/mitsuba-data/master/docs/images/banners/banner_01.jpg" width="48" height="48" alt="Thanos" />
       </a>
       <br>Mitsuba-3
     </td>
