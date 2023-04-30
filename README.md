@@ -13,19 +13,16 @@ Developing AI-powered eyes to see the world in a whole new way 💻👀🌍
 </p>
 
 <p align="left">
-I'm a Computer Vision and Graphics PhD student. I enjoy building projects with SOTA ML methodologies. I'm constantly exploring new technologies and frameworks to enhance my skills and knowledge. 
+Deep Learning, 3D Reconstruction, SLAM, Multi-Modal Registration, Augmented Reality (AR), 3D Graphics, Ray Tracing, Neural Rendering, Motion Analysis, Segmentation, Object Detection, Video Analysis, Object Tracking, Pose Estimation
 
 <br>
-  
+
+
 
 
 - 🔭 I’m currently working on a personal project related to the rudimentary implementation of the Tesla Autopilot software.
 
-
-
-<p align="center">
-  Thanks for stopping by!
-</p>
+## Some of the technologies I work with
 
 <table>
   <tr>
