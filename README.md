@@ -1,26 +1,24 @@
 # :wave: Hello/Selam/Merhaba/Bonjour, I'm Hashaam Saeed
 
-
-
-
 I'm a PhD student turning pixels into meaningful insights, one line of code at a time.
-Developing AI-powered eyes to see the world in a whole new way 💻👀🌍
+
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hashaam94/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[Add your LinkedIn URL here]" alt="LinkedIn Profile" /></a>
-  <a href="https://twitter.com/Syed_M_Hashaam"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=[Add your Twitter URL here]" alt="Twitter Profile" /></a>
-  
+  <a href="https://www.linkedin.com/in/hashaam94/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[Add your LinkedIn URL here]" alt="LinkedIn Profile" />
+  </a>
+  <a href="https://twitter.com/Syed_M_Hashaam">
+    <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=[Add your Twitter URL here]" alt="Twitter Profile" />
+  </a>
 </p>
 
 <p align="left">
-Deep Learning, 3D Reconstruction, SLAM, Multi-Modal Registration, Augmented Reality (AR), 3D Graphics, Ray Tracing, Neural Rendering, Motion Analysis, Segmentation, Object Detection, Video Analysis, Object Tracking, Pose Estimation
+  Deep Learning, 3D Reconstruction, SLAM, Multi-Modal Registration, Augmented Reality (AR), 3D Graphics, Ray Tracing, Neural Rendering, Motion Analysis, Segmentation, Object Detection, Video Analysis, Object Tracking, Pose Estimation
 
-<br>
+  <br>
 
-
-
-
-- 🔭 I’m currently working on a personal project related to the rudimentary implementation of the Tesla Autopilot software.
+  - 🔭 I’m currently working on a personal project related to the rudimentary implementation of the Tesla Autopilot software.
+</p>
 
 ## Some of the technologies I work with
 
