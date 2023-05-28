@@ -12,12 +12,28 @@ I'm a PhD student turning pixels into meaningful insights, one line of code at a
   </a>
 </p>
 
+
+## Key Areas of Expertise
+### Computer Vision and Graphics
 <p align="left">
   Deep Learning, 3D Reconstruction, SLAM, Multi-Modal Registration, Augmented Reality (AR), 3D Graphics, Ray Tracing, Neural Rendering, Motion Analysis, Segmentation, Object Detection, Video Analysis, Object Tracking, Pose Estimation
-
   <br>
 
-  - 🔭 I’m currently working on a personal project related to the rudimentary implementation of the Tesla Autopilot software.
+### Robotics
+  Microcontrollers, FPGA, Printed Circuit Board Design, Digital Logic Design, Control Systems, 
+
+  
+## Personal Projects
+  
+  ### 🔭 Tesla Autopilot Software Development
+  Integration of various SOTA techniques in vision like Occupancy Networks, Nerf, Feature extractor networks etc to implement a rudimentary example of the Tesla Autopilot software.
+
+  ### 🔭 Neural Network Quantization and Deployment for Edge Devices
+Quantizing Famous Object detection and Segmentation Neural Networks on specific edge devices.
+  
+  
+  
+  
 </p>
 
 ## Some of the technologies I work with
