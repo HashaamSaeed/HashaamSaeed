@@ -19,7 +19,7 @@ I'm a PhD student turning pixels into meaningful insights, one line of code at a
   Deep Learning, 3D Reconstruction, SLAM, Multi-Modal Registration, Augmented Reality (AR), 3D Graphics, Ray Tracing, Neural Rendering, Motion Analysis, Segmentation, Object Detection, Video Analysis, Object Tracking, Pose Estimation
   <br>
 
-### Robotics
+### Embedded Systems
   Microcontrollers, FPGA, Printed Circuit Board Design, Digital Logic Design, Control Systems, 
 
   
