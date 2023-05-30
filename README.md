@@ -20,7 +20,7 @@ I'm a PhD student turning pixels into meaningful insights, one line of code at a
   <br>
 
 ### Embedded Systems
-  Microcontrollers, FPGA, Printed Circuit Board Design, Digital Logic Design, Control Systems, 
+  Microcontrollers, FPGA, Printed Circuit Board Design, Digital Logic Design, Control Systems
 
   
 ## Personal Projects
