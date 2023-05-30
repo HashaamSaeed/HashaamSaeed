@@ -25,10 +25,10 @@ I'm a PhD student turning pixels into meaningful insights, one line of code at a
   
 ## Personal Projects
   
-  ### 🔭 Tesla Autopilot Software Development
+  ### 🔭 Tesla Autopilot
   Integration of various SOTA techniques in vision like Occupancy Networks, Nerf, Feature extractor networks etc to implement a rudimentary example of the Tesla Autopilot software.
 
-  ### 🔭 Neural Network Quantization and Deployment for Edge Devices
+  ### 🔭 EdgeNet
 Quantizing Famous Object detection and Segmentation Neural Networks on specific edge devices.
   
   
