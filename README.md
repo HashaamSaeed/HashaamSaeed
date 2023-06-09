@@ -1,6 +1,6 @@
 # :wave: Hello/Selam/Merhaba/Bonjour, I'm Hashaam Saeed
 
-I'm a PhD student turning pixels into meaningful insights, one line of code at a time.
+I'm a Computer Vision and Robotics specialist, currently looking for new opportunities.
 
 
 <p align="center">
@@ -25,10 +25,10 @@ I'm a PhD student turning pixels into meaningful insights, one line of code at a
   
 ## Personal Projects
   
-  ### 🔭 Tesla Autopilot
+  ### 🔭 Tesla Autopilot [ Private repo ]
   Integration of various SOTA techniques in vision like Occupancy Networks, Nerf, Feature extractor networks etc to implement a rudimentary example of the Tesla Autopilot software.
 
-  ### 🔭 EdgeNet
+  ### 🔭 EdgeNet [ Private repo ]
 Quantizing Famous Object detection and Segmentation Neural Networks on specific edge devices.
   
   
