@@ -16,7 +16,7 @@ I'm a Computer Vision and Robotics specialist, currently looking for new opportu
 ## Key Areas of Expertise
 ### Computer Vision and Graphics
 <p align="left">
-  Deep Learning, 3D Reconstruction, SLAM, Multi-Modal Registration, Augmented Reality (AR), 3D Graphics, Ray Tracing, Neural Rendering, Motion Analysis, Segmentation, Object Detection, Video Analysis, Object Tracking, Pose Estimation
+  Deep Learning, 3D Reconstruction, SLAM, Multi-Modal Registration, Augmented Reality (AR), 3D Graphics, Ray Tracing, Neural Rendering, Motion Analysis, Segmentation, Object Detection, Video Analysis, Object Tracking, Pose Estimation, Neural Network Quantization, Differentiable Rendering, Image Quality Assessment/Enhancement
   <br>
 
 ### Embedded Systems
@@ -26,7 +26,7 @@ I'm a Computer Vision and Robotics specialist, currently looking for new opportu
 ## Personal Projects
   
   ### 🔭 Tesla Autopilot [ Private repo ]
-  Integration of various SOTA techniques in vision like Occupancy Networks, Nerf, Feature extractor networks etc to implement a rudimentary example of the Tesla Autopilot software.
+  Integration of various SOTA techniques in vision like Occupancy Networks, Nerf, Feature extractor networks etc to implement an example of the Tesla Autopilot software.
 
   ### 🔭 EdgeNet [ Private repo ]
 Quantizing Famous Object detection and Segmentation Neural Networks on specific edge devices.
